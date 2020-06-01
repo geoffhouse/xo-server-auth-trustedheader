@@ -14,12 +14,11 @@
     "xen-orchestra",
     "xo-server"
   ],
-  "homepage": "https://github.com/vatesfr/xen-orchestra/tree/master/packages/xo-server-auth-trustedheader",
-  "bugs": "https://github.com/vatesfr/xen-orchestra/issues",
+  "homepage": "https://github.com/geoffhouse/xo-server-auth-trustedheader/tree/master",
+  "bugs": "https://github.com/geoffhouse/xo-server-auth-trustedheader/issues",
   "repository": {
-    "directory": "packages/xo-server-auth-trustedheader",
     "type": "git",
-    "url": "https://github.com/vatesfr/xen-orchestra.git"
+    "url": "https://github.com/geoffhouse/xo-server-auth-trustedheader.git"
   },
   "author": {
     "name": "Geoff House",
