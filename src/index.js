@@ -58,7 +58,7 @@ class AuthTrustedHeaderXoPlugin {
         }
 
         try {
-          done(null, await xo.registerUser('trustedheader', userName))
+          done(null, await xo.registerUser2('trustedheader', { user: { id: userName, name: userName }}))
         } catch (error) {
           done(error.message)
         }
